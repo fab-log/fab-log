@@ -1,6 +1,4 @@
-Hello, my name is 
-
-## ✳️ Fabian Ruin ✳️
+## Fabian Ruin
 
 - html, css, Javascript, node.js
 - Frontend
